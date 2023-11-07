@@ -10,6 +10,8 @@ In an era where security and efficiency are paramount, traditional methods of ac
 
 ## Our Solution
 
+![image](https://github.com/S-abk/Entry/assets/117982032/1b138726-a021-4da7-933b-6761318ccd0d)
+
 SmartEntry Solutions is proud to present an AI-powered door status detection system. Leveraging the prowess of [AlexNet](https://en.wikipedia.org/wiki/AlexNet), a revolutionary convolutional neural network, and a robust set of training data, our system can accurately determine whether doors are open or closed in real-time.
 
 ### Features
@@ -21,7 +23,7 @@ SmartEntry Solutions is proud to present an AI-powered door status detection sys
 
 ### The Technology
 
-![AlexNet Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/AlexNet_structure.png/800px-AlexNet_structure.png)
+![image](https://github.com/S-abk/Entry/assets/117982032/02b4a8a2-dcfc-4680-8dea-3385522e4df6)
 
 *Figure 1: AlexNet Convolutional Neural Network Architecture.*
 
