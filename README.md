@@ -45,4 +45,3 @@ Join us in revolutionizing access management. Invest in SmartEntry Solutions –
 
 ---
 
-For more information, visit our [website](https://smartentrysolutions.com) or contact us at [contact@smartentrysolutions.com](mailto:contact@smartentrysolutions.com).
